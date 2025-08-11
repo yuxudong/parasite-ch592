@@ -7,9 +7,9 @@
 - 复刻项目建议下单钢网，某宝就可以，比嘉立创要便宜不少。几个QFN芯片的焊接都不怎么友好，用钢网加铁板烧就好多了；Gerber文件和BOM清单都在附件中；
 - 板上预留了UART口和下载引脚，从上到下分别是下载、3.3V、TX、RX、GND；刷固件用沁恒自带的WCHISPSTUDIO刷；
 - 固件还在改进中，源代码暂不放出，编译好的放附件中；
-[Gerber](./gerber/Gerber_CH592_V1.3_2025-08-11.zip)
-[BOM](./gerber/BOM_CH592传感器_V1.3_Schematic_CH592_V1.3_2025-08-11.xlsx)
-[固件](./firmware/Soil-CH592.hex)
+[Gerber](./gerber/Gerber_CH592_V1.3_2025-08-11.zip)   
+[BOM](./gerber/BOM_CH592传感器_V1.3_Schematic_CH592_V1.3_2025-08-11.xlsx)   
+[固件](./firmware/Soil-CH592.hex)   
 ![图片1](./images/1.jpg)
 ![图片2](./images/2.jpg)
 ![图片3](./images/3.jpg)

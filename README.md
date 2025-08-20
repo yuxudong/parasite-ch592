@@ -10,7 +10,7 @@
 [schematic](./gerber/SCH_Schematic_CH592_V1.3_2025-08-11.pdf)     
 [Gerber](./gerber/Gerber_CH592_V1.3_2025-08-11.zip)   
 [BOM](./gerber/BOM_CH592传感器_V1.3_Schematic_CH592_V1.3_2025-08-11.xlsx)   
-[固件](./firmware/Soil-CH592.hex)    
+[固件](./firmware/Soil-CH592.rar)    
 ![图片1](./images/1.jpg)
 ![图片2](./images/2.jpg)
 ![图片3](./images/3.jpg)
